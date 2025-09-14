@@ -1,6 +1,6 @@
 # FowlTech Game
 
-Basis for a game using FowlTech
+Basis for a game using FowlTech.
 
 ## Running
 
